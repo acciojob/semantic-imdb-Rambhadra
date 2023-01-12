@@ -1,2 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
 
-/* Your CSS Code here. */
+.head{
+    background-color: rgba(0, 0, 0, 0.968);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    
+   
+    
+}
+.a1{
+    font-size: 100px;
+    font-weight: 300;
+    justify-content: center;
+    display: flex;
+}
+.my1{
+    height: 100px;
+    width: 200px;
+}
+.a2{
+    background-color: #121212;
+    color: white;
+    height: 70vh;
+    font-size: 29px;
+    font-weight: 100;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.a3{
+    background-color: rgb(1, 0, 0);
+    color: wheat;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    height: 50px;
+    
+}
+.a4{
+    align-content: space-between;
+    font-size: 30px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
